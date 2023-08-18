@@ -1,2 +1,2 @@
 # SimpleMagicWand
-Proyecto Modular.
+Proyecto Modular. WIP.
